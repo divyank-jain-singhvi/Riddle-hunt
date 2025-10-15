@@ -1,0 +1,4 @@
+train: C:/Users/divyank.singhvi/Divyank/ctc_code/demo/train
+val: C:/Users/divyank.singhvi/Divyank/ctc_code/demo/val
+nc: 2
+names: ["in_arrow", "out_arrow"]
